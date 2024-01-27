@@ -1,0 +1,19 @@
+^\\\\\?\\%ProgramFiles%\\(?!\\)(?![\s\S]*((\.\.|\s(\\|$))|[>/:?<|"]|\\\\))
+^\\\\\?\\%ProgramFiles(x86)%\\(?!\\)(?![\s\S]*((\.\.|\s(\\|$))|[>/:?<|"]|\\\\))
+^\\\\\?\\%windir%\\(?!\\)(?![\s\S]*((\.\.|\s(\\|$))|[>/:?<|"]|\\\\))
+^\\\\\?\\%programdata%\\Microsoft\\Windows\\AppRepository\\(?!\\)(?![\s\S]*((\.\.|\s(\\|$))|[>/:?<|"]|\\\\))
+^\\\\\?\\[^.\\>/:?<|"]+:\\WindowsApps\\(?!\\)(?![\s\S]*((\.\.|\s(\\|$))|[>/:?<|"]|\\\\))
+^\\\\\?\\[^.\\>/:?<|"]+:\\DeliveryOptimization\\(?!\\)(?![\s\S]*((\.\.|\s(\\|$))|[>/:?<|"]|\\\\))
+^\\\\\?\\[^.\\>/:?<|"]+:\\WUDownloadCache\\(?!\\)(?![\s\S]*((\.\.|\s(\\|$))|[>/:?<|"]|\\\\))
+^\\\\\?\\%localappdata%\\Packages\\(?!\\)(?![\s\S]*((\.\.|\s(\\|$))|[>/:?<|"]|\\\\))
+^\\\\\?\\%localappdata%\\Google\\Chrome\\User Data\\Default\\Extensions\\gghenmaodhhklgdblbcbebeekbkcgfgp\\[^\\>/:?<|"]+\.{1}[^\\>/:?<|".]+$
+^\\\\\?\\%localappdata%\\Google\\Chrome\\User Data\\Default\\Extensions\\lccllplkfcdlafcmifofcpgbldnadkha\\[^\\>/:?<|"]+\.{1}[^\\>/:?<|".]+$
+^\\\\\?\\%localappdata%\\Google\\Chrome\\User Data\\Default\\Extensions\\mfjnknhkkiafjajicegabkbimfhplplj\\[^\\>/:?<|"]+\.{1}[^\\>/:?<|".]+$
+^\\\\\?\\%systemdrive%\\Data\\Programs\\WindowsApps\\(?!\\)(?![\s\S]*((\.\.|\s(\\|$))|[>/:?<|"]|\\\\))
+^\\\\\?\\%systemdrive%\\Data\\Windows\\rescache\\(?!\\)(?![\s\S]*((\.\.|\s(\\|$))|[>/:?<|"]|\\\\))
+^\\\\\?\\%localappdata%\\PackagesStaging\\(?!\\)(?![\s\S]*((\.\.|\s(\\|$))|[>/:?<|"]|\\\\))
+^\\\\\?\\[A-Za-z]{1}:\\WpSystem\\S-[0-9\-]+\\(?!\\)(?![\s\S]*((\.\.|\s(\\|$))|[>/:?<|"]|\\\\))
+^\\\\\?\\%userprofile%\\AppData\\Local\\Apps\\Remote Desktop\\(?!\\)(?![\s\S]*((\.\.|\s(\\|$))|[>/:?<|"]|\\\\))
+^\\\\\?\\%userprofile%\\AppData\\Local\\Programs\\Remote Desktop\\(?!\\)(?![\s\S]*((\.\.|\s(\\|$))|[>/:?<|"]|\\\\))
+^\\\\\?\\%localappdata%\\Publishers\\(?!\\)(?![\s\S]*((\.\.|\s(\\|$))|[>/:?<|"]|\\\\))
+^\\\\\?\\[^.\\>/:?<|"]+:\\Program Files\\ModifiableWindowsApps\\(?!\\)(?![\s\S]*((\.\.|\s(\\|$))|[>/:?<|"]|\\\\))

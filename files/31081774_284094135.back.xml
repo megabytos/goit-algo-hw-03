@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Session version="8.0" id="31081774_284094135" client="CbsTask" options="65536" currentPhase="1" lastSuccessfulState="Resolved" pendingFollower="false" retry="false" operationCovered="34" correlationVector="ImiJLU7RREmRIhRZ.1">
+    <Tasks>
+        <Phase seq="1">
+            <package id="Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.3693.1.17" name="KB5032189" targetState="Absent" options="1"/>
+        </Phase>
+    </Tasks>
+    <Actions>
+        <Phase seq="1" rebootRequired="false">
+            <Resolve package="Windows-Defender-Client-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.3636" update="Windows-Defender-Default-Definitions"/>
+            <Resolve package="Windows-Defender-Client-Package~31bf3856ad364e35~amd64~ru-RU~10.0.19041.3636" update="Windows-Defender-Default-Definitions"/>
+            <Resolve package="microsoft-windows-notepad-fod-package-Wrapper~31bf3856ad364e35~amd64~uk-UA~10.0.19041.488" update="microsoft-windows-notepad-fod-package_uk-UA_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-46_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-47_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-48_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-49_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-50_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-51_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-52_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-53_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-54_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-55_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-56_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-57_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-58_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-59_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-60_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-61_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-62_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-63_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-64_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-65_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-66_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-67_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-68_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-69_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-70_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-71_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-72_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-73_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-74_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-75_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-76_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-77_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-78_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-79_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-80_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-81_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-82_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-83_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-84_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-85_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-86_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-87_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5005645~31bf3856ad364e35~amd64~~19041.1262.1.5" update="5005645-88_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5012170~31bf3856ad364e35~amd64~~19041.1880.1.1" update="5012170-6_neutral_PACKAGE"/>
+            <Resolve package="Package_for_KB5011048~31bf3856ad364e35~amd64~~10.0.9176.1" update="5011048-575_neutral_PACKAGE"/>
+            <Resolve package="Microsoft-Windows-EditionPack-Professional-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.3758" update="15a0f4a48037f9fe59f53a0a17213c35"/>
+            <Resolve package="Microsoft-Windows-EditionPack-Professional-Package~31bf3856ad364e35~amd64~ru-RU~10.0.19041.3758" update="15a0f4a48037f9fe59f53a0a17213c35"/>
+        </Phase>
+    </Actions>
+</Session>
